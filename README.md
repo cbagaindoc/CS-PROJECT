@@ -11,19 +11,19 @@ Through our Pomodoro Timer application, we aim to:
 * Include a task list feature to help users stay organized and prioritize work during their Pomodoro session.
 
 # Planned Features:
-* Customizable Pomodoro Timer:
+### Customizable Pomodoro Timer:
 * Users can set their own work and break durations.
 * The timer automatically cycles between:
 * A Work Session (e.g., 25 minutes)
 * A Short Break (e.g., 5 minutes)
 * Optional Long Breaks after a certain number of work sessions (maybe after every 2 work sessions?)
 Break time must always be shorter than work time.
-# Integrated Task List: 
+### Integrated Task List: 
 A built-in task area where users can:
 * Add, edit, or remove tasks.
 * Check off completed tasks during or after sessions.
 * Task list remains visible while the timer is running.
-* Ambient Background Audio (Optional):
+### Ambient Background Audio (Optional):
 Optional background music or nature sounds to help users stay calm and focused.
 Users can toggle sound on/off as preferred.
 # Flowchart / Pseudocode:
