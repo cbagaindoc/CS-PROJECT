@@ -1,4 +1,4 @@
-# PROMISE OF PRODUCTIVITY-POMODORO TIMER🍅⏲️
+# Pahinga’t Gawa: Productivity App 🍅⏲️
 
 ## Problem Statement:
 In our daily lives, it’s common to feel overwhelmed by the number of tasks we need to accomplish. This sense of overload often leads to procrastination or distraction, decreasing overall productivity. Many people avoid starting tasks because they seem too time-consuming or stressful. To address this issue, we aim to create a solution using the Pomodoro Technique, a proven time-management method that helps users stay focused and reduce burnout.
@@ -6,7 +6,7 @@ In our daily lives, it’s common to feel overwhelmed by the number of tasks we 
 ## Project Objectives:
 Our project’s main goal is to help users increase productivity and manage time more effectively. 
 Through our Pomodoro Timer application, we aim to:
-* Reduce feelings of burnout and make large tasks feel more manageable.
+* Break down large tasks into manageable intervals to reduce cognitive overload and improve task completion rates.
 * Provide users with a strict and visible countdown to enhance time-awareness and encourage focus.
 * Include a task list feature to help users stay organized and prioritize work during their Pomodoro session.
 
