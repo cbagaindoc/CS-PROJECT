@@ -1,4 +1,4 @@
-# 🍅⏲️ PROMISE OF PRODUCTIVITY — POMODORO TIMER
+# Pahinga’t Gawa: Productivity App 🥔⏲️
 
 ## Project Description
 The *Promise of Productivity — Pomodoro Timer* is a simple yet effective time management tool inspired by the Pomodoro Technique.
