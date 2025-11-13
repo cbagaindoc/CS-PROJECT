@@ -1,4 +1,4 @@
-# Pahinga’t Gawa: Productivity App 🍅⏲️
+# Pahinga’t Gawa: Productivity App 🥔⏲️
 
 ## Problem Statement:
 In our daily lives, it’s common to feel overwhelmed by the number of tasks we need to accomplish. This sense of overload often leads to procrastination or distraction, decreasing overall productivity. Many people avoid starting tasks because they seem too time-consuming or stressful. To address this issue, we aim to create a solution using the Pomodoro Technique, a proven time-management method that helps users stay focused and reduce burnout.
