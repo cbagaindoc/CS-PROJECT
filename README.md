@@ -10,11 +10,11 @@ This project also includes:
 
 ## How to Run the Program
 1. How to Run the Program
-2. Download the file 'podoromo_timer.py'
+2. Download the file 'pahinga’t gawa_timer.py'
 3. Make sure you have Python installed.
 4. Open a terminal or command prompt.
 5. Run the program by pressing F5 or clicking "Ran'
-6. Follow the on-screen instructions to start the podoromo
+6. Follow the on-screen instructions to start the pahinga’t gawa.
 
 ## Planned Features:
 ### Customizable Pomodoro Timer:
@@ -39,7 +39,7 @@ Enter break duration (minutes): 5
 Task List:
 1. Finish homework
 2. Review notes
-3. Read chapter 3
+3. Read chapter 67
 
 Starting Work Session (25 min)...
 Time Remaining: 24:59 
