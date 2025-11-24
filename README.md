@@ -1,7 +1,7 @@
 # Pahinga’t Gawa: Productivity App 🥔⏲️
 
 ## Project Description
-The *Promise of Productivity — Pomodoro Timer* is a simple yet effective time management tool inspired by the Pomodoro Technique.
+The *Pahinga’t Gawa: Productivity App* is a simple yet effective time management tool inspired by the Pomodoro Technique.
 It helps users stay focused by dividing work into manageable intervals (Pomodoros), followed by short breaks.
 This project also includes:
 - Customizable timer
