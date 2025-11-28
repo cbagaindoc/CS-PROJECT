@@ -34,24 +34,24 @@ This project includes:
 
 ## Example Output 
 Task List:
-  1. Finish homework ✅
-  2. Review notes ✅
-  3. Read chapter 34-64
+- [x] Finish homework
+- [x] Review notes
+- [] Read chapter 34-64
 
-Enter work duration (minutes): 25
+Enter work duration (minutes): 25  
 Enter rest duration (minutes): 5
 
-Starting #1 Work Session (25 min)...
-Time Remaining: 24:59 ...
+Starting #1 Work Session (25 min)...  
+Time Remaining: 24:59 ...  
 End | Pause | Skip
 
 Work done!
 
-Starting #1 Rest Session (5 min)...
-Time Remaining: 04:59
-End | Pause | Skip
+Starting #1 Rest Session (5 min)...  
+Time Remaining: 04:59  
+End | Pause | Skip  
 
-Break done!
+Break done!  
 _If there is an error, it will display:_
 > Whoops! The Rest Timer is greater than Work Timer! Please try again.
 
