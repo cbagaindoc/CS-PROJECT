@@ -1,12 +1,11 @@
 # Pahinga’t Gawa: Productivity App 🥔⏲️
 
 ## Project Description
-The *Pahinga’t Gawa: Productivity App* is a simple yet effective time management tool inspired by the Pomodoro Technique.
+The *Pahinga’t Gawa: Productivity App* is a simple yet effective time management tool inspired by and using the Pomodoro Technique.
 It helps users stay focused by dividing work into manageable intervals, followed by short breaks.
-This project also includes:
+This project includes:
 - Customizable timer
 - Built-in task list
----
 
 ## How to Run the Program
 1. How to Run the Program
@@ -20,38 +19,41 @@ This project also includes:
 ### Customizable Pomodoro Timer:
 * Users can set their own work and break durations.
 * The timer automatically cycles between:
-* A Work Session (e.g., 25 minutes)
-* A Short Break (e.g., 5 minutes)
-* Optional Long Breaks after a certain number of work sessions (maybe after every 2 work sessions?)
-* Break time must always be shorter than work time.
+  * A Work Session (e.g., 25 minutes)
+  * A Break Session (e.g., 5 minutes)
+  * Break Session must always be shorter than Work Session.
+* User can also:
+  * Pause & Unpause the timer
+  * Skip timer sessions
 
 ### Integrated Task List:
 * A built-in task area where users can:
-* Add, edit, or remove tasks.
-* Check off completed tasks during or after sessions.
+  * Add, edit, or remove tasks.
+  * Check off completed tasks during or after sessions.
 * Task list remains visible while the timer is running.
 
 ## Example Output 
+Task List:
+  1. Finish homework ✅
+  2. Review notes ✅
+  3. Read chapter 34-64
 
 Enter work duration (minutes): 25
-Enter break duration (minutes): 5
+Enter rest duration (minutes): 5
 
-Task List:
-1. Finish homework
-2. Review notes
-3. Read chapter 67
+Starting #1 Work Session (25 min)...
+Time Remaining: 24:59 ...
+End | Pause | Skip
 
-Starting Work Session (25 min)...
-Time Remaining: 24:59 
-...
-Work session complete! 
+Work done!
 
-Starting Short Break (5 min)...
-Time Remaining: 04:59 
-...
-Break done! 
+Starting #1 Rest Session (5 min)...
+Time Remaining: 04:59
+End | Pause | Skip
 
-Do you want to start another Pomodoro cycle? (y/n): y
+Break done!
+_If there is an error, it will display:_
+> Whoops! The Rest Timer is greater than Work Timer! Please try again.
 
 ## Contributors
 * Febby Cadalso (Initial Draft, Flowchart)
