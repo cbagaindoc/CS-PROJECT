@@ -1,37 +1,55 @@
 # Pahinga’t Gawa: Productivity App 🥔⏲️
 
 ## Problem Statement:
-In our daily lives, it’s common to feel overwhelmed by the number of tasks we need to accomplish. This sense of overload often leads to procrastination or distraction, decreasing overall productivity. Many people avoid starting tasks because they seem too time-consuming or stressful. To address this issue, we aim to create a solution using the Pomodoro Technique, a proven time-management method that helps users stay focused and reduce burnout.
+In our daily lives, it’s common to feel overwhelmed by the number of tasks we need to accomplish. This sense of overload often leads to procrastination or distraction, decreasing overall productivity. Many people avoid starting tasks because they seem too time-consuming or stressful. [^1] 
+
+To address this issue, we aim to develop a solution based on the Pomodoro Technique, a proven time management method developed by Francesco Cirillo that helps users stay focused and reduce burnout. [^2]
 
 ## Project Objectives:
 Our project’s main goal is to help users increase productivity and manage time more effectively. 
-Through our Pomodoro Timer application, we aim to:
-* Break down large tasks into manageable intervals to reduce cognitive overload and improve task completion rates.
-* Provide users with a strict and visible countdown to enhance time-awareness and encourage focus.
-* Include a task list feature to help users stay organized and prioritize work during their Pomodoro session.
+Through **Pahinga’t Gawa** application, we aim to:
+* Build a simple, user-friendly productivity app in Python within the project deadline.
+* Help users break tasks into manageable work/rest intervals to reduce overload.
+* Provide a clear, strict countdown timer to improve focus and time-awareness.
+* Include an organized task list to help users track and prioritize their work.
 
 ## Planned Features:
 ### Customizable Pomodoro Timer:
 * Users can set their own work and break durations.
 * The timer automatically cycles between:
-* A Work Session (e.g., 25 minutes)
-* A Short Break (e.g., 5 minutes)
-* Optional Long Breaks after a certain number of work sessions (maybe after every 2 work sessions?)
-Break time must always be shorter than work time.
+  * A Work Session (e.g., 25 minutes)
+  * A Break Session (e.g., 5 minutes)
+  * Break Session must always be shorter than Work Session.
+* User can also:
+  * Pause & Unpause the timer
+  * Skip timer sessions
+    
 ### Integrated Task List: 
-A built-in task area where users can:
-* Add, edit, or remove tasks.
-* Check off completed tasks during or after sessions.
+* A built-in task area where users can:
+  * Add, edit, or remove tasks.
+  * Check off completed tasks during or after sessions.
 * Task list remains visible while the timer is running.
 
  ## Flowchart / Pseudocode:
-For our base flowchart, please see our repository in GitHub
+For our base flowchart, please see our [Process Flow Diagram](https://github.com/cbagaindoc/camia_BagaindocCadalso/blob/main/Process%20Flow%20Diagram%20(PFD).md) in our repository on GitHub
 
 
-## Planned Based Inputs and Outputs
+## Planned Inputs and Outputs
 ### Input Type
-<img width="1078" height="180" alt="image" src="https://github.com/user-attachments/assets/4b1fbf1a-ea64-42f2-ad11-f986ffb68eb0" />
+| Feature              | Description                                 | User Input Method                       |
+|----------------------|---------------------------------------------|-------------------------------------------|
+| Start / Pause / Stop | User can start, pause, and stop the timer   | Button clicks, keyboard shortcuts         |
+| Skip Command         | User can skip the current timer session early | Button clicks, keyboard shortcuts       |
+| Length of the Timer  | User sets duration for work & rest intervals | User-entered values, settings adjustment |
+| To-Do List           | User manages a checklist of tasks           | Typing to add tasks, edit/delete actions  |
 
 ### Output Type
-<img width="1080" height="173" alt="image" src="https://github.com/user-attachments/assets/8bfc7bc9-35a4-4053-ab2d-091c8572c1c0" />
+| Feature                   | Description                                                    | Output Type                |
+|---------------------------|----------------------------------------------------------------|-----------------------------|
+| Countdown Timer Display   | Remaining time for current session (work or break)             | On-screen digital timer (e.g., MM:SS) |
+| Session Number            | Current session count (e.g., “Session 3”)                     | On-screen text              |
+| To-do list                | To-do list (e.g., • Read ch. 67)                               | On-screen text              |
+| Buzzer Alarm              | Will sound an alarm if rest/work timer reaches 00:00           | Sound                       |
 
+[^1]: Lillis, C. (2025, April 24). [What is task paralysis?](https://www.medicalnewstoday.com/articles/task-paralysis#:~:text=Task%20paralysis%20is%20when%20someone,rapid%20changes%20in%20mood)
+[^2]: Cirillo, Francesco, [The Pomodoro Technique](https://web.archive.org/web/20230331051358/https://francescocirillo.com/products/the-pomodoro-technique), archived from [the original](https://francescocirillo.com/products/the-pomodoro-technique) on 31 March 2023
